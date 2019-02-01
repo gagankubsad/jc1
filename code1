@@ -1,1 +1,1 @@
-echo "hai" > test.txt
+echo "hai hello" > test.txt
